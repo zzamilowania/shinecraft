@@ -62,7 +62,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 10,
+    "uniqCompNum": 17,
     "versionPublish": "6.1.4",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -87,7 +87,7 @@
     "site_lang": "pl",
     "google-analytics": "",
     "favicon": false,
-    "mbrsiteDomain": "f5pbqh2msj",
+    "mbrsiteDomain": "viavxntxa0",
     "usedWebp": false,
     "gdpr": false
   },
@@ -95,8 +95,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ShineCraft",
-        "meta_descr": "detailing aut, polerka, powłoka ceramiczna, czyszczenie i pomoc w sprzedaży auta",
+        "title": "Detailing samochodowy Baranowo – ShineCraft | Tarnowo Podgórne",
+        "meta_descr": "ShineCraft – detailing samochodowy w Baranowie (Tarnowo Podgórne). Profesjonalne mycie, odświeżanie wnętrza i renowacja lakieru. Umów swoje auto już dziś!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -650,7 +650,7 @@
           },
           "_name": "testimonials1",
           "_sourceTheme": "autom5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"testimonilas1\" group=\"People\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"Reverse\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Image\" name=\"showImage\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"align-left mb-4\">\n            <h4 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .card-box\">\n                O NAS<svg mbr-if=\"showTitle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"44\" fill=\"currentColor\" class=\"bi bi-arrow-down-short rotate\" viewBox=\"0 0 16 16\">\n                    <path fill-rule=\"evenodd\" d=\"M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z\"></path>\n                </svg></h4>\n        </div>\n        <div class=\"row wrapper\">\n            <div class=\"col-lg-7 col-md-12\" mbr-if=\"showImage\">\n                <img src=\"@PROJECT_PATH@/assets/images/shinecraft20czarne20tc582o1-806x867.png\" alt=\"Logo3\"><br>\n            </div>\n            <div class=\"col-lg-5 col-md-12\">\n                <div class=\"wrapper-position\">\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" mbr-if=\"showSubtitle\">Dokładność ponad pośpiech</p>\n                    <h3 class=\"mbr-text align-left mbr-fonts-style mb-0\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">W ShineCraft płacisz za czas, precyzję i rzetelność – nie za obietnice.<br><br><div>Każde auto traktujemy indywidualnie, dobierając najlepsze produkty i sprawdzone procedury, by efekt był trwały, a nie chwilowy.</div><div><br></div><div>Oferujemy zarówno kompleksowe pakiety detailingu, jak i tańsze opcje przygotowania auta do sprzedaży w których dzięki<span style=\"font-size: 1.2rem;\">&nbsp;dopracowanym technikom polerowania uzyskujemy efekt niemal identyczny jak po pełnej renowacji, ale w znacznie niższej cenie.</span></div></h3>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"testimonilas1\" group=\"People\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"Reverse\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Image\" name=\"showImage\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"align-left mb-4\">\n            <h4 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .card-box\">\n                O NAS<svg mbr-if=\"showTitle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"44\" fill=\"currentColor\" class=\"bi bi-arrow-down-short rotate\" viewBox=\"0 0 16 16\">\n                    <path fill-rule=\"evenodd\" d=\"M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z\"></path>\n                </svg></h4>\n        </div>\n        <div class=\"row wrapper\">\n            <div class=\"col-lg-7 col-md-12\" mbr-if=\"showImage\">\n                <img src=\"@PROJECT_PATH@/assets/images/shinecraft20czarne20tc582o1-806x867.png\" alt=\"Logo3\"><br>\n            </div>\n            <div class=\"col-lg-5 col-md-12\">\n                <div class=\"wrapper-position\">\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" mbr-if=\"showSubtitle\">Dokładność ponad pośpiech</p>\n                    <h3 class=\"mbr-text align-left mbr-fonts-style mb-0\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">W ShineCraft płacisz za czas, precyzję i rzetelność – nie za obietnice.<br><br><div>Każde auto traktujemy indywidualnie, dobierając najlepsze produkty i sprawdzone procedury, by efekt był trwały, a nie chwilowy.</div><div><br></div><div>Oferujemy zarówno kompleksowe pakiety detailingu, jak i tańsze opcje przygotowania auta do sprzedaży, w których dzięki dopracowanym technikom polerowania uzyskujemy efekt niemal identyczny jak po pełnej renowacji, ale w znacznie niższej cenie. Działamy w Baranowie (gmina Tarnowo Podgórne) i obsługujemy klientów z Przeźmierowa, Chyb, Poznania oraz całej okolicy.</div></h3>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "taOwhm7MiC",
           "_anchor": "testimonials1-4",
           "_protectedParams": [],
@@ -925,7 +925,7 @@
         {
           "_name": "pricing-tables02",
           "_sourceTheme": "personam4",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"pricing2 personam4_pricing-tables2\" group=\"Pricing Tables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\">\n\n\t<mbr-parameters>\n\t\t\n\t\t<header>Size</header>\n\t\t<input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<select title=\"Items Count\" name=\"itemsCount\">\n\t\t\t<option value=\"1\">1</option>\n\t\t\t<option value=\"2\">2</option>\n\t\t\t<option value=\"3\">3</option>\n\t\t\t<option value=\"4\" selected>4</option>\n\t\t</select>\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t<header>Background</header>\n\t\t<input type=\"color\" name=\"card1\" title=\"Crad 1\" value=\"#eaf4f8\" selected condition=\"itemsCount > 0\">\n\t\t<input type=\"color\" name=\"card2\" title=\"Crad 2\" value=\"#fff3f3\" selected condition=\"itemsCount > 1\">\n\t\t<input type=\"color\" name=\"card3\" title=\"Crad 3\" value=\"#eaf4f8\" selected condition=\"itemsCount > 2\">\n\t\t<input type=\"color\" name=\"card4\" title=\"Crad 4\" value=\"#fff3f3\" selected condition=\"itemsCount > 3\">\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/personam4/components/_images/background2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#222222\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n\t\t</fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/personam4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n\t\t\n\t</mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 0\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card1\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Jednoetapowa polerka lakieru</b><b><br></b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">\n\t\t\t\t\t\t\t\tod 350</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 350–500 zł</li><li class=\"list-group-item\">Średnie auta: 400–550 zł</li><li class=\"list-group-item\">Duże auta: 500–650 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5 \" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 1\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card2\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Dwuetapowa polerka lakieru</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price  pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">\n\t\t\t\t\t\t\t\tod 500</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 600–800 zł</li><li class=\"list-group-item\">Średnie auta: 700–900 zł</li><li class=\"list-group-item\">Duże auta: 800–1000 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 2\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card3\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Powłoka ceramiczna</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">od 800</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 800–1200 zł</li><li class=\"list-group-item\">Średnie auta: 1000–1500 zł</li><li class=\"list-group-item\">Duże auta: 1200–1800 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 3\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card4\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Pomoc w sprzedaży auta</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">od 150</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Standard: 150–300 zł</li><li class=\"list-group-item\">Premium (pełna obsługa): 500–800 zł + opcja na % od sprzedaży</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"pricing2 personam4_pricing-tables2\" group=\"Pricing Tables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\">\n\n\t<mbr-parameters>\n\t\t\n\t\t<header>Size</header>\n\t\t<input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<select title=\"Items Count\" name=\"itemsCount\">\n\t\t\t<option value=\"1\">1</option>\n\t\t\t<option value=\"2\">2</option>\n\t\t\t<option value=\"3\">3</option>\n\t\t\t<option value=\"4\" selected>4</option>\n\t\t</select>\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t<header>Background</header>\n\t\t<input type=\"color\" name=\"card1\" title=\"Crad 1\" value=\"#eaf4f8\" selected condition=\"itemsCount > 0\">\n\t\t<input type=\"color\" name=\"card2\" title=\"Crad 2\" value=\"#fff3f3\" selected condition=\"itemsCount > 1\">\n\t\t<input type=\"color\" name=\"card3\" title=\"Crad 3\" value=\"#eaf4f8\" selected condition=\"itemsCount > 2\">\n\t\t<input type=\"color\" name=\"card4\" title=\"Crad 4\" value=\"#fff3f3\" selected condition=\"itemsCount > 3\">\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/personam4/components/_images/background2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#222222\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n\t\t</fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/personam4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n\t\t\n\t</mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 0\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card1\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Jednoetapowa polerka lakieru</b><b><br></b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">\n\t\t\t\t\t\t\t\tod 400</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 400-500 zł</li><li class=\"list-group-item\">Średnie auta: 500-600 zł</li><li class=\"list-group-item\">Duże auta: 600–700 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5 \" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 1\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card2\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Dwuetapowa polerka lakieru</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price  pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">\n\t\t\t\t\t\t\t\tod 600</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 600–800 zł</li><li class=\"list-group-item\">Średnie auta: 700–900 zł</li><li class=\"list-group-item\">Duże auta: 800–1000 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 2\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card3\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Powłoka ceramiczna</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">od 800</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Małe auta: 800–1200 zł</li><li class=\"list-group-item\">Średnie auta: 1100–1500 zł</li><li class=\"list-group-item\">Duże auta: 1300–1800 zł</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"plan col-12 justify-content-center\" mbr-if=\"itemsCount > 3\" mbr-class=\"{'col-lg-4': itemsCount == 3, 'col-lg-6': itemsCount == 2, 'col-lg-3': itemsCount == 4}\">\n\t\t\t\t<div class=\"card4\">\n\t\t\t\t\t<div class=\"plan-header text-center\">\n\t\t\t\t\t\t<h3 class=\"plan-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".plan-title\"><b>Pomoc w sprzedaży auta</b></h3>\n\t\t\t\t\t\t<div class=\"plan-price pb-4 pt-3\">\n\t\t\t\t\t\t\t<span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".price-figure\">od 150</span>\n\t\t\t\t\t\t\t<span mbr-text class=\"price-value mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-value\">\n\t\t\t\t\t\t\t\tzł</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"plan-body\">\n\t\t\t\t\t\t<div class=\"plan-list align-center\">\n\t\t\t\t\t\t\t<ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-4\">\n\t\t\t\t\t\t\t\t<li class=\"list-group-item\">Standard: 150–300 zł</li><li class=\"list-group-item\">Premium (pełna obsługa): 500–800 zł + opcja na % od sprzedaży</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-5\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobiri.se\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">PURCHASE NOW</a></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -1129,243 +1129,230 @@
           "_params": {}
         },
         {
-          "alias": false,
+          "_name": "header02",
+          "_sourceTheme": "guidem5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header02 guidem5\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"12\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"12\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Tags\" name=\"showTags\">\n        <input type=\"color\" title=\"Tag Bg 1\" value=\"#000000\" name=\"tagBg_1\" condition=\"showTags\" selected>\n        <input type=\"color\" title=\"Tag Bg 2\" value=\"#ffdf7d\" name=\"tagBg_2\" condition=\"showTags\" selected>\n        <input type=\"color\" title=\"Tags Border\" value=\"#323232\" name=\"tagsBorder\" condition=\"showTags\" selected>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Image\" name=\"showImage\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"showGradient\" condition=\"showImage && bg.type == 'color'\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/guidem5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/guidem5/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"content-wrapper\">\n                    <div class=\"tags-wrapper\" mbr-if=\"showTags\">\n                        <div class=\"tags-wrap card-wrap\">\n                            <div class=\"tags-content card-wrap\">\n                                <p class=\"mbr-tag_1 card-wrap mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-tag_1, .tags-wrapper\">\n                                    Smart\n                                </p>\n                                <p class=\"mbr-tag_2 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-tag_2, .tags-wrapper\">\n                                    Brand\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"title-wrapper\" mbr-if=\"showTitle || showSubtitle\">\n                        <h2 class=\"mbr-section-title mbr-fonts-style\" data-app-selector=\".mbr-section-title, .mbr-section-btn\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                            Online Product\n                        </h2>\n                        <h3 class=\"mbr-section-subtitle mbr-fonts-style\" data-app-selector=\".mbr-section-subtitle, .subtitle-wrapper\" mbr-theme-style=\"display-1\" mbr-if=\"showSubtitle\">Nasza Przestrzeń i Efekty Pracy</h3>\n                    </div>\n                    <div class=\"text-wrapper\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .text-wrapper\">\n                            Take your products beyond the shelf and into the spotlight with our Online Product\n                            Advertising solutions.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                            <span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>\n                            About product\n                        </a>\n                    </div>\n                </div>\n                <div class=\"image-wrapper card-wrap\" mbr-if=\"showImage\">\n                    <img src=\"@ADDONS_PATH@/guidem5/components/_images/background1.jpg\" alt=\"Mobirise Website Builder\">\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "overflow": "hidden",
-            "& when (@bg-type = \"color\")": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
-            "& when (@bg-type = \"image\")": {
-              "background-image": "url(@bg-value)",
-              "& when (@overlay)": {
-                ".mbr-overlay": {
-                  "background": "@overlayColor",
-                  "opacity": "@overlayOpacity"
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".content-wrapper": {
+              "margin": "0 auto",
+              "width": "60%",
+              "@media (max-width: 1440px)": {
+                "width": "75%"
+              },
+              "@media (max-width: 992px)": {
+                "margin": "0",
+                "width": "100%"
+              },
+              ".tags-wrapper": {
+                "margin-bottom": "24px",
+                ".tags-wrap": {
+                  "position": "relative",
+                  "z-index": "1",
+                  "display": "inline-flex",
+                  "align-items": "center",
+                  "padding": "1px",
+                  "overflow": "hidden",
+                  "&:before": {
+                    "content": "''",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "0",
+                    "width": "100%",
+                    "height": "100%",
+                    "background-image": "linear-gradient(245deg, @tagsBorder 0, transparent 140%)",
+                    "z-index": "-1"
+                  },
+                  ".tags-content": {
+                    "padding": "5px",
+                    "background-color": "@tagBg_1",
+                    ".mbr-tag_1": {
+                      "display": "inline-flex",
+                      "padding": "0 8px",
+                      "background-color": "@tagBg_2",
+                      "margin-bottom": "0"
+                    },
+                    ".mbr-tag_2": {
+                      "display": "inline-flex",
+                      "padding": "0 6px",
+                      "margin-bottom": "0"
+                    }
+                  }
+                }
+              },
+              ".title-wrapper": {
+                "margin-bottom": "24px",
+                ".mbr-section-title": {
+                  "margin-bottom": "0"
+                },
+                ".mbr-section-subtitle": {
+                  "margin-bottom": "0"
+                }
+              },
+              ".text-wrapper": {
+                ".mbr-text": {
+                  "display": "inline-block",
+                  "width": "60%",
+                  "margin-bottom": "24px",
+                  "@media (max-width: 992px)": {
+                    "width": "100%"
+                  }
                 }
               }
             },
-            "& when not (@showSubtitle)": {
-              ".card-text": {
-                "padding-top": "35px"
+            ".image-wrapper": {
+              "display": "flex",
+              "justify-content": "center",
+              "margin-top": "24px",
+              "position": "relative",
+              "overflow": "hidden",
+              "& when (@bg-type = 'color')": {
+                "& when (@showGradient)": {
+                  "mask-image": "linear-gradient(to top, transparent 2%, #000000 15%, #000000 85%, transparent 98%)",
+                  "-webkit-mask-image": "linear-gradient(to top, transparent 2%, #000000 15%, #000000 85%, transparent 98%)"
+                }
+              },
+              "img": {
+                "width": "100%",
+                "height": "600px",
+                "object-fit": "cover",
+                "& when (@showGradient)": {
+                  "border-radius": "0 !important"
+                },
+                "@media (max-width: 992px)": {
+                  "height": "300px"
+                }
               }
             },
-            "background-position": "initial !important",
-            ".slide-content": {
-              "position": "relative",
-              "border-radius": "4px",
-              "background": "transparent",
-              "height": "100%",
-              "display": "flex",
-              "overflow": "visible",
-              "flex-flow": "column nowrap"
+            ".mbr-tag_1, .tags-wrapper": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-tag_2": {
+              "color": "#ffdf7d"
             },
             ".mbr-section-title": {
-              "color": "#fafafa",
-              "text-align": "left",
-              "margin-bottom": "70px"
+              "color": "#808080"
             },
-            ".embla__slide": {
-              "display": "flex",
-              "justify-content": "center",
-              "position": "relative",
-              "min-width": "58%",
-              "max-width": "596px",
-              "@media (max-width: 768px)": {
-                "min-width": "70%",
-                "max-width": "initial",
-                "margin-left": "1rem !important",
-                "margin-right": "1rem !important"
-              }
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            "@media (max-width: 900px)": {
-              ".embla__slide": {
-                "min-width": "60%"
-              }
+            ".mbr-text, .text-wrapper": {
+              "color": "#808080",
+              "text-align": "center"
             },
-            "@media (max-width: 630px)": {
-              ".embla__slide": {
-                "min-width": "375px"
-              }
-            },
-            ".embla__button--next, .embla__button--prev": {
-              "display": "flex"
-            },
-            ".embla__button": {
-              "transition": "background-color 300ms ease, transform 300ms ease",
-              "border": "1px solid #2b2b2b",
-              "width": "64px",
-              "height": "64px",
-              "font-size": "22px",
-              "border-radius": "50%",
-              "top": "-16%",
-              "margin-top": "-1.5rem",
-              "background-color": "@iconColor",
-              "color": "#000000",
-              "position": "absolute",
-              "display": "flex",
-              "justify-content": "center",
-              "align-items": "center",
-              "@media (min-width: 1400px)": {
-                "top": "-18%"
-              },
-              "& when not (@arrows)": {
-                "display": "none"
-              },
-              "& when not (@arrowsMobile)": {
-                "@media (max-width: 768px)": {
-                  "display": "none"
-                }
-              },
-              "&:disabled": {
-                "cursor": "default"
-              },
-              "&.embla__button--prev": {
-                "right": "0",
-                "margin-right": "5.5rem"
-              },
-              "&.embla__button--next": {
-                "right": "0",
-                "margin-right": "0.5rem"
-              }
-            },
-            "@media (max-width: 767px)": {
-              ".embla__button--prev": {
-                "right": "initial",
-                "margin-right": "0"
-              },
-              ".embla__button--next": {
-                "right": "0",
-                "margin-right": "0"
-              }
-            },
-            ".mobi-mbri-arrow-prev": {
-              "margin-right": "5px"
-            },
-            ".mobi-mbri-arrow-next": {
-              "margin-left": "5px"
-            },
-            ".embla": {
-              "position": "relative",
-              "width": "100%"
-            },
-            ".embla__viewport": {
-              "overflow": "visible",
-              "width": "100%"
-            },
-            "@media (min-width: 992px)": {
-              ".embla__viewport": {
-                "margin-left": "10rem"
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".embla__viewport": {
-                "margin-left": "0"
-              }
-            },
-            ".embla__viewport.is-draggable": {
-              "cursor": "grab"
-            },
-            ".embla__viewport.is-dragging": {
-              "cursor": "grabbing"
-            },
-            ".embla__container": {
-              "display": "flex",
-              "-webkit-user-select": "none",
-              "-moz-user-select": "none",
-              "-ms-user-select": "none",
-              "user-select": "none",
-              "-webkit-touch-callout": "none",
-              "-khtml-user-select": "none",
-              "-webkit-tap-highlight-color": "transparent"
-            },
-            "@media (min-width: 426px) and (max-width: 991px)": {
-              ".embla__container": {
-                "margin-top": "30px"
-              }
-            },
-            ".shadow": {
-              "border-radius": "4px",
-              "overflow": "visible",
-              "padding": "0 15px",
-              "border": "1px solid #f8f8f8",
-              "background-color": "#f8f8f8"
-            },
-            ".card-title": {
-              "margin": "35px 0",
-              "color": "#000000",
-              "text-align": "left",
-              "padding-left": "20px",
-              "padding-right": "20px",
-              "font-size": "20px"
-            },
-            ".card-text": {
-              "color": "#000000",
-              "text-align": "left",
-              "padding-left": "18px",
-              "padding-right": "20px",
-              "padding-bottom": "50px",
-              "line-height": "31px"
-            },
-            ".card-title, .iconfont-wrapper": {
-              "color": "#000000"
-            },
-            "@media (max-width: 576px)": {
-              ".card-text": {
-                "margin-bottom": "10px"
-              }
-            },
-            "@media (max-width: 420px)": {
-              ".embla__button": {
-                "width": "44px",
-                "height": "44px"
-              },
-              ".embla__button--next": {
-                "margin-right": "0 !important"
-              },
-              ".embla__button--prev": {
-                "margin-right": "3.5rem !important"
-              },
-              "@media (max-width: 425px)": {
-                ".embla__button--next": {
-                  "right": "20px",
-                  "top": "-35px"
-                },
-                ".embla__button--prev": {
-                  "right": "30px",
-                  "top": "-35px"
-                }
-              },
-              ".embla__container": {
-                "transform": "translateX(-25px)"
-              },
-              ".embla__slide": {
-                "min-width": "290px"
-              }
-            },
-            ".rotate": {
-              "transform": "rotate(225deg)",
-              "position": "absolute",
-              "@media (max-width: 425px)": {
-                "top": "30px"
-              }
+            ".mbr-section-title, .mbr-section-btn": {
+              "text-align": "center"
             }
           },
-          "_name": "slider1",
-          "_sourceTheme": "autom5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"slider1 mbr-embla\" group=\"Galleries & Sliders\" plugins=\"embla\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\" checked>\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\" checked>\n        <input type=\"color\" title=\"Controls-color\" name=\"iconColor\" value=\"#fafafa\" selected>\n        <header>Carousel</header>\n        <input type=\"range\" inline title=\"Cards\" name=\"cardsCount\" min=\"1\" max=\"9\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\">\n        <input type=\"range\" title=\"Interval\" name=\"interval\" min=\"1\" max=\"10\" value=\"5\" step=\"1\" condition=\"autoplay\">\n        <input type=\"checkbox\" title=\"Loop\" name=\"loop\">\n        <input type=\"checkbox\" title=\"Draggable\" name=\"draggable\" checked>\n        <input type=\"checkbox\" name=\"arrows\" title=\"Arrows\" checked>\n        <input type=\"checkbox\" name=\"arrowsMobile\" title=\"Mobile Arrows\" checked condition=\"arrows\">\n        <input type=\"range\" name=\"gap\" title=\"Gap\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" required>\n            <input type=\"color\" title=\"Color\" value=\"#1c1c1c\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <h4 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">OPINIE KLIENTÓW<svg mbr-if=\"showTitle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"44\" fill=\"currentColor\" class=\"bi bi-arrow-down-short rotate\" viewBox=\"0 0 16 16\">\n                <path fill-rule=\"evenodd\" d=\"M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z\"></path>\n            </svg>\n        </h4>\n        <div class=\"embla\" data-loop=\"{{loop}}\" data-auto-play=\"{{autoplay}}\" data-auto-play-interval=\"{{interval}}\" data-draggable=\"{{draggable}}\" data-skip-snaps=\"true\" data-align=\"center\" data-contain-scroll=\"trimSnaps\">\n            <div class=\"embla__viewport\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n                <div class=\"embla__container\" mbr-list mbr-list-grow=\"cardsCount\">\n                    <div class=\"embla__slide slider-image \" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                        <div class=\"slide-content\">\n                            <div class=\"shadow item-wrapper\">\n                                <div class=\"row\">\n                                    <div class=\"col-12 col-md-12\">\n                                        <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".card-title, .iconfont-wrapper\">\n                                            <b>Adam</b></h5>\n                                        <h5 class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card-text\">Oddałem samochód do odświeżenia i byłem naprawdę zaskoczony efektem. Wnętrze wygląda jak nowe, lakier nabrał blasku, a przy tym wszystko w przystępnej cenie. Polecam!</h5>\n                                    </div>\n\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                <div class=\"embla__slide slider-image \" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                        <div class=\"slide-content\">\n                            <div class=\"shadow item-wrapper\">\n                                <div class=\"row\">\n                                    <div class=\"col-12 col-md-12\">\n                                        <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".card-title, .iconfont-wrapper\">\n                                            <b>Renata</b></h5>\n                                        <h5 class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card-text\">Dzięki! Auto znalazło nowego właściciela w zaledwie kilka dni! Profesjonalne zdjęcia, atrakcyjny opis i ogłoszenie wystawione od razu. Sprzedaż była naprawdę szybka i bez stresu.</h5>\n                                    </div>\n\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"embla__slide slider-image \" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                        <div class=\"slide-content\">\n                            <div class=\"shadow item-wrapper\">\n                                <div class=\"row\">\n                                    <div class=\"col-12 col-md-12\">\n                                        <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".card-title, .iconfont-wrapper\">\n                                            <b>Julia</b></h5>\n                                        <h5 class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card-text\">Nie tylko odświeżyli samochód i przygotowali świetne ogłoszenie, ale nawet pomogli z całą formalną stroną sprzedaży – umowy, dokumenty i odbiór auta. Pełen profesjonalizm, polecam w 100%.</h5>\n                                    </div>\n\n                                </div>\n                            </div>\n                        </div>\n                    </div></div>\n            </div>\n            <button class=\"embla__button embla__button--prev\">\n                <span class=\"mobi-mbri mobi-mbri-arrow-prev mbr-iconfont\" aria-hidden=\"true\"></span>\n                <span class=\"sr-only visually-hidden visually-hidden\">Previous</span>\n            </button>\n            <button class=\"embla__button embla__button--next\">\n                <span class=\"mobi-mbri mobi-mbri-arrow-next mbr-iconfont\" aria-hidden=\"true\"></span>\n                <span class=\"sr-only visually-hidden visually-hidden\">Next</span>\n            </button>\n        </div>\n    </div>\n</section>",
-          "_cid": "taOwmOG9rv",
-          "_anchor": "slider1-7",
+          "_cid": "v3Ky4bzgWP",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "header02-g"
+        },
+        {
+          "_name": "gallery02",
+          "_sourceTheme": "devicem5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"gallery02 devicem5\" group=\"Gallery & Slider\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"12\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"12\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/devicem5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/devicem5/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12 col-lg-4 item features-image\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/1-753x1020.png\" alt=\"1\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-lg-8 item features-image\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/garaz-1-2262x1263.jpg\" alt=\"garaz\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-lg-8 item features-image\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20170930-161134-1920x1080.jpg\" alt=\"3\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-lg-4 item features-image\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/volvo-1-552x718.jpg\" alt=\"2\">\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".container-fluid": {
+                "padding": "0 60px",
+                "@media (max-width: 1440px)": {
+                  "padding": "0 42px"
+                },
+                "@media (max-width: 992px)": {
+                  "padding": "0 16px"
+                }
+              }
+            },
+            ".container": {
+              "@media (max-width: 992px)": {
+                "padding": "0 16px"
+              }
+            },
+            ".row": {
+              "margin": "0 -20px"
+            },
+            ".item": {
+              "padding": "0 20px",
+              ".item-wrapper": {
+                ".item-img": {
+                  "img": {
+                    "height": "700px",
+                    "object-fit": "cover",
+                    "margin-bottom": "40px",
+                    "@media (max-width: 992px)": {
+                      "height": "350px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_cid": "v3KqA6vC6B",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "gallery02-f"
         },
         {
           "_name": "video01",
           "_sourceTheme": "progressm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"video01 progressm5\" group=\"Image & Video\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"12\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"12\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDesc\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Video</header>\n        <input type=\"text\" title=\"Link\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=-BSQlJxCDcI&loop=1&autoplay=1\">\n        <input type=\"color\" name=\"active\" title=\"Active Border Color\" value=\"#078efb\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/progressm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#121212\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/progressm5/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#060606\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row content-wrapper\">\n            <div class=\"col-12\">\n                <div class=\"title-wrapper\" mbr-if=\"showTitle || showText\">\n                    <h2 class=\"mbr-section-title mbr-fonts-style\" data-app-selector=\".mbr-section-title, .mbr-section-btn\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Zobacz efekt przed i po!</h2>\n                    <div class=\"text-wrapper\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .text-wrapper\">Skontaktuj się z nami!\n                        </p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-lg-10\">\n                <div mbr-video class=\"mbr-figure col-12 mb-5 col-md-{{videoWidth}}\">\n                    <iframe src=\"https://youtube.com/shorts/NB5hHS7ror0?feature=share&loop=1\" width=\"800\" height=\"600\"></iframe>\n                </div>\n            </div>\n            <div class=\"col-12\">\n                <div class=\"desc-wrapper\">\n                    <p class=\"mbr-desc mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showDesc\" data-app-selector=\".mbr-desc, .desc-wrapper\">\n                        In conclusion, the Smart Home Project is revolutionizing how we live, transforming our homes\n                        into intelligent.\n                    </p>\n                </div>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>\n                        Read more about project\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"video01 progressm5\" group=\"Image & Video\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"12\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"12\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDesc\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Video</header>\n        <input type=\"text\" title=\"Link\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=-BSQlJxCDcI&loop=1&autoplay=1\">\n        <input type=\"color\" name=\"active\" title=\"Active Border Color\" value=\"#078efb\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/progressm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#121212\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/progressm5/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#060606\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row content-wrapper\">\n            <div class=\"col-12\">\n                <div class=\"title-wrapper\" mbr-if=\"showTitle || showText\">\n                    <h2 class=\"mbr-section-title mbr-fonts-style\" data-app-selector=\".mbr-section-title, .mbr-section-btn\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Detailing, który robi różnicę – zobacz nasze realizacje</h2>\n                    <div class=\"text-wrapper\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .text-wrapper\">Skontaktuj się z nami!\n                        </p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-lg-10\">\n                <div mbr-video class=\"mbr-figure col-12 mb-5 col-md-{{videoWidth}}\">\n                    <iframe src=\"https://youtube.com/shorts/NB5hHS7ror0?feature=share&loop=1\" width=\"800\" height=\"600\"></iframe>\n                </div>\n            </div>\n            <div class=\"col-12\">\n                <div class=\"desc-wrapper\">\n                    <p class=\"mbr-desc mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showDesc\" data-app-selector=\".mbr-desc, .desc-wrapper\">\n                        In conclusion, the Smart Home Project is revolutionizing how we live, transforming our homes\n                        into intelligent.\n                    </p>\n                </div>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>\n                        Read more about project\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 1rem)",
