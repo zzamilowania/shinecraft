@@ -96,7 +96,7 @@
       "settings": {
         "main": true,
         "title": "Detailing samochodowy Baranowo – ShineCraft | Tarnowo Podgórne",
-        "meta_descr": "ShineCraft – detailing samochodowy w Baranowie (Tarnowo Podgórne). Profesjonalne mycie, odświeżanie wnętrza i renowacja lakieru. Umów swoje auto już dziś!",
+        "meta_descr": "ShineCraft – detailing samochodowy w Baranowie (Tarnowo Podgórne). Profesjonalne odświeżanie wnętrza, pielęgnacja i renowacja lakieru. Umów swoje auto już dziś!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1271,11 +1271,11 @@
             }
           },
           "_cid": "v3Ky4bzgWP",
+          "_anchor": "header02-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header02-g"
+          "_params": {}
         },
         {
           "_name": "gallery02",
@@ -1343,11 +1343,11 @@
             }
           },
           "_cid": "v3KqA6vC6B",
+          "_anchor": "gallery02-f",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "gallery02-f"
+          "_params": {}
         },
         {
           "_name": "video01",
