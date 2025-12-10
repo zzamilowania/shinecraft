@@ -69,7 +69,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nSitemap: https://shinecraft.pl/sitemap.xml\n\n",
     "sitemapSwitcher": true,
     "siteUrl": "https://shinecraft.pl/sitemap.xml",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -87,10 +87,10 @@
     "site_lang": "pl",
     "google-analytics": "",
     "favicon": false,
-    "mbrsiteDomain": "lrujkqsxob",
+    "mbrsiteDomain": "ogjcoxjdwz",
     "usedWebp": false,
     "gdpr": false,
-    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TFXQ1FX74G\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TFXQ1FX74G');\n</script>"
+    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TFXQ1FX74G\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TFXQ1FX74G');\n</script>\n<link rel=\"canonical\" href=\"https://shinecraft.pl/\">\ngoogle-site-verification=Auh6GquETK77ByncRf62qffFNRWT_1beJSfM9qGcE6s\n"
   },
   "pages": {
     "index.html": {
