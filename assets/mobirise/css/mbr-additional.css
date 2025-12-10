@@ -1489,6 +1489,119 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-v4ZAaDyK5D {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #222222;
+}
+.cid-v4ZAaDyK5D .list-group-item {
+  padding: 0.75rem 2rem;
+  background-color: transparent;
+}
+.cid-v4ZAaDyK5D .plan {
+  word-break: break-word;
+  position: relative;
+  z-index: 1;
+  max-width: 400px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-v4ZAaDyK5D .plan:after {
+  content: '';
+  position: absolute;
+  transition: all 0.3s;
+  border-radius: 100%;
+  z-index: -1;
+  bottom: 1rem;
+  left: 50%;
+  right: 50%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 40px;
+  box-shadow: 0 35px 30px 0 rgba(0, 0, 0, 0.35);
+}
+.cid-v4ZAaDyK5D .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-v4ZAaDyK5D .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: '';
+  background-color: #eaeaea;
+}
+.cid-v4ZAaDyK5D .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-v4ZAaDyK5D .plan:hover:after {
+  opacity: 1;
+}
+.cid-v4ZAaDyK5D .card1 {
+  background: #eaf4f8;
+  margin: 1rem;
+}
+.cid-v4ZAaDyK5D .card2 {
+  background: #fff3f3;
+  margin: 1rem;
+}
+.cid-v4ZAaDyK5D .card3 {
+  background: #eaf4f8;
+  margin: 1rem;
+}
+.cid-v4ZAaDyK5D .card4 {
+  background: #fff3f3;
+  margin: 1rem;
+}
+.cid-v4ZAaDyK5D .plan-header {
+  padding-top: 5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-v4ZAaDyK5D .plan-body {
+  padding-bottom: 5rem;
+}
+.cid-v4ZAaDyK5D .price-figure {
+  font-weight: 700;
+  color: #3d626c;
+}
+.cid-v4ZAaDyK5D .price-value {
+  font-weight: 700;
+  vertical-align: top;
+  color: #3d626c;
+}
+@media (max-width: 767px) {
+  .cid-v4ZAaDyK5D .price-figure {
+    font-size: 4.25rem;
+  }
+  .cid-v4ZAaDyK5D .list-group-item {
+    padding: 0.75rem 2rem;
+  }
+}
+.cid-v4ZAaDyK5D .plan-title {
+  color: #3d626c;
+}
+.cid-v4ZAaDyK5D UL {
+  color: #161616;
+}
+.cid-v4ZAaDyK5D .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v4ZAaDyK5D .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-taOwmuyXYe {
   padding-top: 3rem;
   padding-bottom: 3rem;
