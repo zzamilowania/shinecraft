@@ -87,10 +87,10 @@
     "site_lang": "pl",
     "google-analytics": "",
     "favicon": false,
-    "mbrsiteDomain": "ogjcoxjdwz",
+    "mbrsiteDomain": "gfuclazkcg",
     "usedWebp": false,
     "gdpr": false,
-    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TFXQ1FX74G\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TFXQ1FX74G');\n</script>\n<link rel=\"canonical\" href=\"https://shinecraft.pl/\">\ngoogle-site-verification=Auh6GquETK77ByncRf62qffFNRWT_1beJSfM9qGcE6s\n"
+    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TFXQ1FX74G\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TFXQ1FX74G');\n</script>\n<meta name=\"google-site-verification\" content=\"Auh6GquETK77ByncRf62qffFNRWT_1beJSfM9qGcE6s\" />\n<link rel=\"canonical\" href=\"https://shinecraft.pl/\">"
   },
   "pages": {
     "index.html": {
